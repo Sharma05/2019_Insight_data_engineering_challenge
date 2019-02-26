@@ -1,5 +1,5 @@
 
-
+# Insight_data_engineering_challenge_2019
 
 
 
@@ -18,6 +18,6 @@ The following can be executed from the terminal directly.
 
 matlab -nodisplay -nosplash -nodesktop -r "try, run('./src/pharmacy_counting.m'), catch, exit, end, exit"
 
-test
+#test
 
 #matlab -nodisplay -nosplash -nodesktop -r "try, run('./insight_test_priya/temp/src/pharmacy_counting.m'), catch, exit, end, exit"
